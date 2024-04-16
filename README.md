@@ -1,4 +1,7 @@
-### Hi there 👋
+# Jean-Baptiste Brousse 🦆
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jbrousse?1337Badge=off&UM6P=off" alt="jbrousse's 42 stats" /></a>
+<p/>
 
 <!--
 **Luma-3/Luma-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
