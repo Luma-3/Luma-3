@@ -1,19 +1,23 @@
-# Jean-Baptiste Brousse 🦆
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jbrousse?1337Badge=off&UM6P=off" alt="jbrousse's 42 stats" /></a>
-<p/>
+<div align="center">
+	<h1> Hey stars ⭐ ! </h1>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/jbrousse?1337Badge=off&UM6P=off" alt="jbrousse's 42 stats" /></a>
+</div>
+<div align="center">
+	<h1> On 42 Commun-Core</h1>
+	<img src="./badges/common_coren.png" length="200" width="200"/>
+</div>
+<div align="center" style="display: flex; justify-content: center;">
+	<h3>Latest Projects :</h3>
+	<a href=""><img src="./badges/libftm.png" length="150" width="150" /></a>
+	<a href=""><img src="./badges/fract-olm.png" length="150" width="150" /></a>
+	<a href=""><img src="./badges/push_swapm.png" length="150" width="150"  /></a>
+    <a href=""><img src="./badges/minishellm.png" length="150" width="150" /></a>
+</div>
+<div align="center">
+	<h1>📩 How to reach me: jbrousse@student.42.fr</h1>
+	<img src="https://github-readme-stats.vercel.app/api?username=Luma-3&theme=dracula&show_icons=true&hide_border=true&count_private=true" length="150" width="450"/>
+	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luma-3&theme=dracula&hide_border=true" length="150" width="450" />
+</div>
 
-<!--
-**Luma-3/Luma-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- I love Markdown ! -->
