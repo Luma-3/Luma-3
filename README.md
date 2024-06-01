@@ -7,7 +7,7 @@
 	<img src="./badges/common_coren.png" length="200" width="200"/>
 </div>
 <div align="center" style="display: flex; justify-content: center;">
-	<h3> In Prgess: </h3>
+	<h3> In Progess: </h3>
 	<a href="https://github.com/monsieurCanard/Cub3d" >	<img src= "./badges/cub3de.png" length="150" width="150" /></a>
 	<a href="https://github.com/Luma-3/Cpp-module" >	<img src= "./badges/cppe.png" length="150" width="150" /></a>
 </div>
