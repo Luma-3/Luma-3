@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-	<h1>📩 How to reach me: jbrousse@student.42.fr</h1>
+	<h1>📩 How to reach me: jb.brs@icloud.com</h1>
 	<img src="https://github-readme-stats.vercel.app/api?username=Luma-3&theme=dracula&show_icons=true&hide_border=true&count_private=true" length="150" width="450"/>
 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luma-3&theme=dracula&hide_border=true" length="150" width="450" />
