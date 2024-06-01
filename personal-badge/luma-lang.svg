@@ -1,9 +1,0 @@
-<svg height="200" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <clipPath id="circleView">
-      <circle cx="100" cy="100" r="100" />
-    </clipPath>
-  </defs>
-  <image xlink:href="https://github.com/Luma-3/Luma-3/blob/main/personal-badge/ico_lum-lang__typo.png" height="200" width="200" clip-path="url(#circleView)" />
-</svg>
-
