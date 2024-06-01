@@ -19,6 +19,11 @@
 	<a href="https://github.com/Luma-3/Minishell">		<img src="./badges/minishellm.png" length="150" width="150" /></a>
 </div>
 <div align="center">
+	<h3>Personal Projects: </h3>
+ 	<a href="https://github.com/Luma-3/lum-lang"> <h4>Lum-Lang</h4> </a>
+</div>
+
+<div align="center">
 	<h1>📩 How to reach me: jbrousse@student.42.fr</h1>
 	<img src="https://github-readme-stats.vercel.app/api?username=Luma-3&theme=dracula&show_icons=true&hide_border=true&count_private=true" length="150" width="450"/>
 	<br>
