@@ -1,6 +1,5 @@
 <div align="center">
 	<h1> Hey stars ⭐ ! </h1>
-	<a href="https://profile.intra.42.fr/users/164757"><img src="https://badge.mediaplus.ma/black/jbrousse?1337Badge=off&UM6P=off" alt="jbrousse's 42 stats" /></a>
 </div>
 <div align="center">
 	<h1> On 42 Commun-Core</h1>
