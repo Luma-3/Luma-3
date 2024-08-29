@@ -17,10 +17,10 @@
 	<a href="https://github.com/Luma-3/Push-Swap">		<img src="./badges/push_swapm.png" length="150" width="150"  /></a>
 	<a href="https://github.com/Luma-3/Minishell">		<img src="./badges/minishellm.png" length="150" width="150" /></a>
 </div>
-<div align="center">
+<!-- <div align="center">
 	<h3>Personal Projects: </h3>
  	<a href="https://github.com/Luma-3/lum-lang"> <img src="./personal-badge/badge_lum-lang.png" length="150" width="150" style="border-radius: 50%; width: 150px; height: 150px;"/></a>
-</div>
+</div> -->
 
 <div align="center">
 	<h1>📩 How to reach me: jb.brs@icloud.com</h1>
