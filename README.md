@@ -8,6 +8,7 @@
 <div align="center" style="display: flex; justify-content: center;">
 	<h3> In Progess: </h3>
 	<a href="https://github.com/Luma-3/Cpp-module" >	<img src= "./badges/cppe.png" length="150" width="150" /></a>
+	<a href="https://github.com/Luma-3/WebServ">		<img src="./badges/webserve.png" length="150" width="150" /></a>
 </div>
 <div align="center" style="display: flex; justify-content: center;">
 	<h3>Latest Projects: </h3>
