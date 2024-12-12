@@ -8,15 +8,15 @@
 <div align="center" style="display: flex; justify-content: center;">
 	<h3> In Progess: </h3>
 	<a href="https://github.com/Luma-3/Cpp-module" >	<img src= "./badges/cppe.png" length="150" width="150" /></a>
-	<a href="https://github.com/Luma-3/WebServ">		<img src="./badges/webserve.png" length="150" width="150" /></a>
 </div>
 <div align="center" style="display: flex; justify-content: center;">
 	<h3>Latest Projects: </h3>
-	<a href="https://github.com/monsieurCanard/Cub3d" >	<img src= "./badges/cub3dm.png" length="150" width="150" /></a>
 	<a href="https://github.com/Luma-3/libft">		<img src="./badges/libftm.png" length="150" width="150" /></a>
 	<a href="https://github.com/Luma-3/fract-ol">		<img src="./badges/fract-olm.png" length="150" width="150" /></a>
 	<a href="https://github.com/Luma-3/Push-Swap">		<img src="./badges/push_swapm.png" length="150" width="150"  /></a>
 	<a href="https://github.com/Luma-3/Minishell">		<img src="./badges/minishellm.png" length="150" width="150" /></a>
+	<a href="https://github.com/monsieurCanard/Cub3d" >	<img src= "./badges/cub3dm.png" length="150" width="150" /></a>
+	<a href="https://github.com/Luma-3/WebServ">		<img src="./badges/webservm.png" length="150" width="150" /></a>
 </div>
 <!-- <div align="center">
 	<h3>Personal Projects: </h3>
