@@ -7,10 +7,10 @@
 </div>
 <div align="center" style="display: flex; justify-content: center;">
 	<h3> In Progess: </h3>
-	<a href=https://github.com/Luma-3/Inception > <img src= "./badges/inceptione.png" length="150 width="150" /></a>
 </div>
 <div align="center" style="display: flex; justify-content: center;">
 	<h3>Latest Projects: </h3>
+	<a href=https://github.com/Luma-3/Inception > 		<img src= "./badges/inception.png" length="150 width="150" /></a>
 	<a href="https://github.com/Luma-3/Cpp-module" >	<img src= "./badges/cppm.png" length="150" width="150" /></a>
 	<a href="https://github.com/Luma-3/libft">		<img src="./badges/libftm.png" length="150" width="150" /></a>
 	<a href="https://github.com/Luma-3/fract-ol">		<img src="./badges/fract-olm.png" length="150" width="150" /></a>
