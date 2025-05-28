@@ -2,33 +2,39 @@
 
 # 👋 Hi, I'm Luma
 
-🎓 42 student | 💻 System & low-level dev  
-🛠️ C, C++, Shell, Docker  
-📫 jb.brs@icloud.com
+<p>
+## 🎓 42 student | 
+## 💻 System & low-level dev  
+	
+</p>
 
 </div>
 
 ## 🛠️ Stack & Tools
 
-<div align="center">
+<div>
 
-<!-- Icons via https://simpleicons.org -->
+### Main language
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### IDE
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Nvim](https://img.shields.io/badge/Neovim-2357A143?style=flat-square&logo=neovim&logoColor=white)
+
+### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nvim](https://img.shields.io/badge/Neovim-2357A143?style=flat-square&logo=neovim&logoColor=white)
 
 
 </div>
 
 ---
 
-### 🚧 Currently working on
+## 🚧 Currently working on
 <div align="center">
 	
 [![ft_transcendence](badges/ft_transcendencen.png)](https://github.com/Luma-3/ft_transcendence)
