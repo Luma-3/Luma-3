@@ -92,7 +92,6 @@
 **Email**: jb.brs@icloud.com  
 **Website**: *(coming soon)*  
 
-<p align="center" style="font-size: small; color: gray;">
-	
-🖼️ Profile picture by [jess.h3ry](https://www.instagram.com/jess.h3ry/)
-</p>
+<!--🖼️ Profile picture by [jess.h3ry](https://www.instagram.com/jess.h3ry/)-->
+
+
