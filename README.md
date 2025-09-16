@@ -30,8 +30,7 @@
 
 ### 🚧 Currently working on
 <div align="center">
-	
-[![ft_transcendence](badges/ft_transcendencen.png)](https://github.com/Luma-3/ft_transcendence)
+
 
 </div>
 
@@ -41,6 +40,14 @@
 <div align="center">
 
 <table>
+	<tr>
+    <td align="center" width="140">
+      <a href="https://github.com/Luma-3/ft_transcendence">
+        <img src="./badges/ft_transcendencen.png" width="120" alt="Minishell"/><br/>
+        <div><b>Minishell</b></div>
+        <div><sub>POSIX shell with subshell and wildcard</sub></div>
+      </a>
+    </td>
   <tr>
     <td align="center" width="140">
       <a href="https://github.com/Luma-3/Minishell">
