@@ -48,6 +48,7 @@
 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:-------|
+| **[🏓 Ft_Ping](https://github.com/Luma-3/ft_ping)** | Custom ping utility — RTT stats & packet analysis. | C, Makefile, Docker | ![](https://img.shields.io/badge/●-In%20progress-FFA500?style=flat-square) 
 | **[🎮 Transcendence](https://github.com/Luma-3/ft_transcendence)** | Full-stack web platform | Docker, Web | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 | **[⚡ Minishell](https://github.com/Luma-3/Minishell)** | POSIX shell with subshell & wildcard | C, Shell | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 | **[🔄 Push Swap](https://github.com/Luma-3/Push-Swap)** | Optimized sorting algorithm | C | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
