@@ -1,14 +1,11 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LUMA%20///%20SYSTEM%20ARCHITECT&fontSize=40&fontColor=00D9FF&animation=fadeIn&fontAlignY=35)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=42+Student+%7C+Low-Level+Engineer;Building+Systems+from+the+Ground+Up;C+%7C+C%2B%2B+%7C+System+Programming" alt="Typing SVG" />
-
 <br/>
 
 **42 Paris** · **System Development** · **Software Development**
 
-[![Email](https://img.shields.io/badge/📬_Contact-jb.brs@icloud.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jb.brs@icloud.com)
+[![Email](https://img.shields.io/badge/📬_Contact-jb.brousse@luma3.dev-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jb.brousse@luma3.dev)
 
 </div>
 
@@ -78,20 +75,10 @@
 
 <div align="center">
 
-**Email:** jb.brs@icloud.com  
+**Email:** jb.brousse@luma3.dev  
 **Website:** [portfolio.luma3.dev](https://portfolio.luma3.dev)
 
-
-### *"Building the future, one system call at a time"* 🚀
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⚡%20TRANSMISSION%20END%20⚡&fontSize=20&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
 </div>
-
-<!--
-████████████████████████████████████████████████████████████
-█ System designed by Luma // Powered by dedication & code █
-████████████████████████████████████████████████████████████
--->
