@@ -37,9 +37,9 @@ Here are the low-level and infrastructure projects I am currently focusing on:
 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:-------|
-| **[💻 Kernel from Scratch](https://github.com/Luma-3/)** | Building a monolithic kernel from scratch. | C, Assembly | ![](https://img.shields.io/badge/●-In%20progress-FFA500?style=flat-square) |
-| **[📦 Inception-of-Things](https://github.com/Luma-3/)** | Setting up a cloud lab inside a VM to manage applications and automated deployment. | K3s, Vagrant, Docker | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
-| **[🐧 Ft_Linux](#)** | Building Linux from scratch. | Linux, Admin | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
+| **[💻 Kernel from Scratch](https://github.com/Luma-3/Kernel-From-Scratch)** | Building a monolithic kernel from scratch. | C, Assembly | ![](https://img.shields.io/badge/●-In%20progress-FFA500?style=flat-square) |
+| **[📦 Inception-of-Things](https://github.com/bibickette/inception-of-things)** | Setting up a cloud lab inside a VM to manage applications and automated deployment. | K3s, Vagrant, Docker | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
+| **🐧 Ft_Linux** | Building Linux from scratch. | Linux, Admin | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 | **[🏓 Ft_Ping](https://github.com/Luma-3/ft_ping)** | Custom ping utility — RTT stats & packet analysis. | C, Docker | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 
 ### 📂 Other Projects
