@@ -52,6 +52,7 @@ A collection of past projects covering web development, POSIX compliance, and al
 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:-------|
+| **[📟 Embedded ATMega328p](ton-lien)** | Bare-metal C development on microcontrollers with custom UART, I2C, and Timer drivers.| C, ATMega328p | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 | **[⚡ Minishell](https://github.com/Luma-3/Minishell)** | POSIX shell with subshell & wildcard. | C, Shell | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 | **[🌐 WebServ](https://github.com/Luma-3/WebServ)** | HTTP/1.1 server from scratch. | C++98 | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
 | **[👁️ Cub3D](https://github.com/monsieurCanard/Cub3d)** | 3D raycasting engine. | C, Graphics | ![](https://img.shields.io/badge/✓-Complete-00FF7F?style=flat-square) |
